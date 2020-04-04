@@ -2,9 +2,9 @@
 
 王者60复古，客户端安装包，下载安装就可以玩！
 
-游戏下载 [http://t.cn/A6zIWVuY](http://t.cn/A6zIWVuY) （这个是游戏客户端，新人必须下载这个！）
+游戏下载 [http://suo.im/5z2PdP ](http://suo.im/5z2PdP ) （这个是游戏客户端，新人必须下载这个！）
 
-游戏补丁[http://t.cn/A6zIWZaW](http://t.cn/A6zIWZaW) （这个不多解释，不懂的可以不用下载！）
+游戏补丁[http://suo.im/6385dQ](http://suo.im/6385dQ ) （这个不多解释，不懂的可以不用下载！）
 
 ------
 
