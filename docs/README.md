@@ -24,11 +24,11 @@
 
 PS:如果需要更改安装路径请自行修改，否则默认即可！
 
-![img](https://ae01.alicdn.com/kf/Hf9962d7485ad439da6ea063ebd92a07cG.png)
+![img](https://ae01.alicdn.com/kf/Hf9962d7485ad439da6ea063ebd92a07cG.png) 
 
 直接点击按钮Extract按钮，开始自动安装 如下图！
 
-![img](https://ae01.alicdn.com/kf/H05abc428e1f94c9e9e50e159cbf69ef1R.png)
+![img](https://ae01.alicdn.com/kf/H05abc428e1f94c9e9e50e159cbf69ef1R.png) 
 
 等待自动安装完成，在当前执行目录会多出一个DNF60文件夹，打开登录器，登录即可！
 
@@ -46,7 +46,7 @@ Win10自带防火墙 会存在一定误杀通讯文件 ijl15.dll 导致登录无
 
 如何重装，游戏核心服务组件！（新手请务必 理解下图中的意思！）
 
-![img](https://ae01.alicdn.com/kf/Hd8309349195c43b19439841942e36589v.gif)
+![img](https://ae01.alicdn.com/kf/Hd8309349195c43b19439841942e36589v.gif) 
 
 图片中操作的很清楚，就不多描述了！操作不了联系管理操作即可！
 
@@ -56,7 +56,7 @@ Win10自带防火墙 会存在一定误杀通讯文件 ijl15.dll 导致登录无
 
 #### 开启uu加速器正确方式
 
-![img](https://ae01.alicdn.com/kf/H4f722ac359a74314a8b120d79a85cf23m.gif)
+![img](https://ae01.alicdn.com/kf/H4f722ac359a74314a8b120d79a85cf23m.gif) 
 
 注意：加速模式只保留模式3，游戏启动路径为登录器进程！
 
