@@ -12,9 +12,9 @@
 
 请严格按照，格式填写！切勿重复提交！每晚统一审核！ 请务必添加管理员QQ [6682635](http://wpa.qq.com/msgrd?v=3&uin=6682635) 会私聊发放！谢谢！
 
-新人奖励 https://wj.qq.com/s2/5421551/9217
+新人奖励 [https://wj.qq.com/s2/5421551/9217](https://wj.qq.com/s2/5421551/9217)
 
-邀请奖励 https://wj.qq.com/s2/5903901/bcbe
+邀请奖励 [https://wj.qq.com/s2/5903901/bcbe](https://wj.qq.com/s2/5903901/bcbe)
 
 ------
 
@@ -60,4 +60,4 @@ Win10自带防火墙 会存在一定误杀通讯文件 ijl15.dll 导致登录无
 
 注意：加速模式只保留模式3，游戏启动路径为登录器进程！
 
-加速器下载地址： https://uu.163.com/
+加速器下载地址： [https://uu.163.com/](https://uu.163.com/)
