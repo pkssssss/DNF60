@@ -2,9 +2,9 @@
 
 王者复古，客户端安装包，下载安装就可以玩！
 
-游戏下载 [https://git.io/JfYXJ](https://git.io/JfYXJ)（这个是游戏客户端，新人必须下载这个！）
+游戏下载 [https://git.io/JfYXX](https://git.io/JfYXX)（这个是游戏客户端，新人必须下载这个！）
 
-游戏补丁 [https://git.io/JfYXL](https://git.io/JfYXL)（这个不多解释，不懂的可以不用下载！）
+游戏补丁 [https://git.io/JfYXK](https://git.io/JfYXK)（这个不多解释，不懂的可以不用下载！）
 
 ------
 
@@ -38,7 +38,7 @@ PS：建议每个新玩家加入本服满级工会（最强王者）有各种效
 
 Win10自带防火墙 会存在一定误杀通讯文件 ijl15.dll 导致登录无反应！所以给大家提供一键命令bat文件直接关闭！
 
-文件下载 [Windows10 关闭系统防护.bat](http://suo.im/6ta1Kn) 记得使用管理员运行本文件~
+文件下载 [Windows10 关闭系统防护.bat](https://git.io/JfYXS) 记得使用管理员运行本文件~
 
 如何重装，游戏核心服务组件！（新手请务必 理解下图中的意思！）
 
