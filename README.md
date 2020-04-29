@@ -2,9 +2,9 @@
 
 王者复古，客户端安装包，下载安装就可以玩！
 
-游戏下载 [http://suo.im/5RO8nn](http://suo.im/5RO8nn)（这个是游戏客户端，新人必须下载这个！）
+游戏下载 [https://git.io/JfYXJ](https://git.io/JfYXJ)（这个是游戏客户端，新人必须下载这个！）
 
-游戏补丁 [http://suo.im/4YbPGN](http://suo.im/4YbPGN)（这个不多解释，不懂的可以不用下载！）
+游戏补丁 [https://git.io/JfYXL](https://git.io/JfYXL)（这个不多解释，不懂的可以不用下载！）
 
 ------
 
