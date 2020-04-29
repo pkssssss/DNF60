@@ -2,9 +2,9 @@
 
 王者复古，客户端安装包，下载安装就可以玩！
 
-游戏下载 [http://suo.im/5RO8nn](https://cloud.189.cn/shareFileDownload.action?param=0D08B317ADCF69FD2B21CCB41DBA50E600B4E4647C70588AC8E440A05EEF610B41E55B13F428A915DC083E39B5643FEE7C6D2D8EDEC963A89E94645E5551563C)（这个是游戏客户端，新人必须下载这个！）
+游戏下载 [http://suo.im/5RO8nn](http://suo.im/5RO8nn)（这个是游戏客户端，新人必须下载这个！）
 
-游戏补丁 [http://suo.im/4YbPGN](https://cloud.189.cn/shareFileDownload.action?param=4119CCCCD77190B1B89CD004A9413A2258BDD749B955CB653D6A05D8588F2005FD70A9BFD9CDC99DD3C2BF31768A83F701988DFEC963680009F1CEBA35650D9F)（这个不多解释，不懂的可以不用下载！）
+游戏补丁 [http://suo.im/4YbPGN](http://suo.im/4YbPGN)（这个不多解释，不懂的可以不用下载！）
 
 ------
 
@@ -38,7 +38,7 @@ PS：建议每个新玩家加入本服满级工会（最强王者）有各种效
 
 Win10自带防火墙 会存在一定误杀通讯文件 ijl15.dll 导致登录无反应！所以给大家提供一键命令bat文件直接关闭！
 
-文件下载 [Windows10 关闭系统防护.bat](https://cloud.189.cn/shareFileDownload.action?param=0C6AD755FF272407A04FAE86F221CD34FC19DF07417479F6A483EB42227986359F9F15375A76C26F496CCA133C3A4F0703A1E9B5F79FDFFD2844A25B32DB3203) 记得使用管理员运行本文件~
+文件下载 [Windows10 关闭系统防护.bat](http://suo.im/6ta1Kn) 记得使用管理员运行本文件~
 
 如何重装，游戏核心服务组件！（新手请务必 理解下图中的意思！）
 
