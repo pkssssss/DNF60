@@ -24,7 +24,7 @@
 
 直接点击按钮Extract按钮，开始自动安装 如下图！
 
-![img](https://ae01.alicdn.com/kf/H3fbb92d3786848d5b4caf90b462e4a43b.gif) 
+![img](https://ae01.alicdn.com/kf/H3fbb92d3786848d5b4caf90b462e4a43b.gif)  
 
 等待自动安装完成，在当前执行目录会多出一个DNF60文件夹，打开登录器，登录即可！
 
@@ -42,7 +42,7 @@ Win10自带防火墙 会存在一定误杀通讯文件 ijl15.dll 导致登录无
 
 如何重装，游戏核心服务组件！（新手请务必 理解下图中的意思！）
 
-![img](https://ae01.alicdn.com/kf/H547bafab3d5b481abf2e5a317d474123V.gif) 
+![img](https://ae01.alicdn.com/kf/H547bafab3d5b481abf2e5a317d474123V.gif)  
 
 图片中操作的很清楚，就不多描述了！操作不了联系管理操作即可！
 
