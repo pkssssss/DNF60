@@ -4,7 +4,7 @@
 
 游戏下载 [https://git.io/JfYXX](https://git.io/JfYXX)（这个是游戏客户端，新人必须下载这个！）
 
-游戏补丁 [https://git.io/JfYXK](https://git.io/JfYXK)（这个不多解释，不懂的可以不用下载！）
+游戏补丁 [https://git.io/Jf3au](https://git.io/Jf3au)（这个不多解释，不懂的可以不用下载！）
 
 ------
 
